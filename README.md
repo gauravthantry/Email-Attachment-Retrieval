@@ -1,6 +1,5 @@
 # Email-Attachment-Retrieval
-
-                                                             EAR 1.0 (Email Attachment retrieval)                                                                                                
+<h1 align="center"><b>    EAR 1.0 (Email Attachment retrieval)        </b></h1>                                                
 1.This C# console application traverses the outlook account to fetch documents that are recieved from an email  </br></br>
 2.The application stores the document in the path mentioned in the app.config file. Any changes to the path or the file name in the future must be done in the app.config file.</br></br>
 3.The application checks for the file(path mentioned in the app.config file) for two consecutive days.</br></br>
